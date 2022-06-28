@@ -1,0 +1,19 @@
+{
+  "dept": [
+    {
+      "id": "120",
+      "deptname": "HR",
+      "location": "Siem Reap"
+    },
+    {
+      "id": "121",
+      "deptname": "Finance",
+      "location": "Phnom Penh"
+    },
+    {
+      "id": "122",
+      "deptname": "Admin",
+      "location": "Kampong Speu"
+    }
+  ]
+}

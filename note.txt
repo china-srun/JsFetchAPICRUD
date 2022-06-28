@@ -1,0 +1,17 @@
+Learning Objective: 
+    - How to make http(web) request from javascript
+
+1. What is http?
+    - Hyper Text Transfer Protocol
+    - http is a protocol that is used when you access a web content 
+    - Protocol to transfer hyper text
+    - Protocol ==> set of rules to transfer hyper text data
+
+**Everything on the web page is hyper text
+
+
+Basic https methods:
+    - create 
+    - read 
+    - update 
+    - delete
